@@ -7,9 +7,11 @@ output: html_document
 
 ## paragraph 1
 do something
+do somthing else
 
 ## paragraph 2
 ```{r}
 #do_somthing()
+
 ```
 

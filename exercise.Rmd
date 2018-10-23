@@ -12,7 +12,8 @@ do somthing else
 ## paragraph 2
 ```{r}
 #do_somthing()
-
-# do something else()
+# Defines the starting values for each parameter for the function 
+startvalue = c(4,0,10)
+# Runs the MCMC function with startvalue as the initial conditions and with 10,000 iterations
 ```
 

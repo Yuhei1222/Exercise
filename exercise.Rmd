@@ -1,0 +1,15 @@
+---
+title: "Exercise"
+author: "ZY Fang"
+date: "10/23/2018"
+output: html_document
+---
+
+## paragraph 1
+do something
+
+## paragraph 2
+```{r}
+#do_somthing()
+```
+

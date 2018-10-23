@@ -13,5 +13,6 @@ do somthing else
 ```{r}
 #do_somthing()
 
+# do something else()
 ```
 
